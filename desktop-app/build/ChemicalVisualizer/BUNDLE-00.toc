@@ -1,0 +1,3 @@
+([('ChemicalVisualizer',
+   '/Users/parshv/Documents/ChemicalVisualizer/desktop-app/dist/ChemicalVisualizer',
+   'EXECUTABLE')],)
