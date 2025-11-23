@@ -11,7 +11,7 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 
 # Base API URL, same as the React frontend
-API_URL = "http://127.0.0.1:8000/api"
+API_URL = 'https://chemical-backend-nghd.onrender.com/api' # When using locally 'http://127.0.0.1:8000/api';
 
 
 # ----------------- LOGIN WINDOW ----------------- #
