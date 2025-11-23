@@ -319,7 +319,7 @@ const App = () => {
               <div className="text-lg font-semibold">Login to continue</div>
               <input
                 type="text"
-                placeholder="User (admin)"
+                placeholder="Username"
                 className={`w-full border p-2 rounded text-sm ${
                   isDark
                     ? 'bg-transparent border-gray-600 text-gray-100 placeholder-gray-400'
@@ -333,7 +333,7 @@ const App = () => {
               <div className="space-y-2">
                 <input
                   type={showPassword ? 'text' : 'password'}
-                  placeholder="Pass (password123)"
+                  placeholder="Password"
                   className={`w-full border p-2 rounded text-sm ${
                     isDark
                       ? 'bg-transparent border-gray-600 text-gray-100 placeholder-gray-400'
