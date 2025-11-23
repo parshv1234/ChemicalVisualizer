@@ -133,7 +133,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 import os
 
-CORS_ALLOW_ALL_ORIGINS = True # Allow your Vercel frontend React to talk to Django backend Render
+CORS_ALLOW_ALL_ORIGINS = True # Allow your Vercel (frontend) React to talk to Django (backend)Render
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
